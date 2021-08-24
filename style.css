@@ -1,0 +1,35 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    margin: 0px;
+    width: 100%;
+    font-size: 30px;
+}
+
+#start, #status, #number_of_objects
+{
+    font-size: 20px;
+}
+
+canvas
+{
+   border-radius: 20px;
+   border: 2px solid white;
+   margin-top: 130px;
+   box-shadow: 5px 5px 5px grey;
+}
+
+.Copy_Right_Footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: royalblue;
+    line-height: 2;
+    text-align: center;
+}
